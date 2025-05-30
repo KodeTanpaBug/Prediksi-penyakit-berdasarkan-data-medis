@@ -1,0 +1,1000 @@
+Jenis Kelamin,Usia,Hipertensi,Penyakit Jantung,Riwayat Merokok,BMI,Kadar HbA1c,Kadar Glukosa Darah,Diabetes
+Perempuan,80.0,0,1,Tidak Pernah,25.19,6.6,140,Tidak
+Perempuan,54.0,0,0,Tidak Diketahui,27.32,6.6,80,Tidak
+Laki-laki,28.0,0,0,Tidak Pernah,27.32,5.7,158,Tidak
+Perempuan,36.0,0,0,Masih Merokok,23.45,5.0,155,Tidak
+Laki-laki,76.0,1,1,Masih Merokok,20.14,4.8,155,Tidak
+Perempuan,20.0,0,0,Tidak Pernah,27.32,6.6,85,Tidak
+Perempuan,44.0,0,0,Tidak Pernah,19.31,6.5,200,Ya
+Perempuan,79.0,0,0,Tidak Diketahui,23.86,5.7,85,Tidak
+Laki-laki,42.0,0,0,Tidak Pernah,33.64,4.8,145,Tidak
+Perempuan,32.0,0,0,Tidak Pernah,27.32,5.0,100,Tidak
+Perempuan,53.0,0,0,Tidak Pernah,27.32,6.1,85,Tidak
+Perempuan,54.0,0,0,Pernah Merokok,54.7,6.0,100,Tidak
+Perempuan,78.0,0,0,Pernah Merokok,36.05,5.0,130,Tidak
+Perempuan,67.0,0,0,Tidak Pernah,25.69,5.8,200,Tidak
+Perempuan,76.0,0,0,Tidak Diketahui,27.32,5.0,160,Tidak
+Laki-laki,78.0,0,0,Tidak Diketahui,27.32,6.6,126,Tidak
+Laki-laki,15.0,0,0,Tidak Pernah,30.36,6.1,200,Tidak
+Perempuan,42.0,0,0,Tidak Pernah,24.48,5.7,158,Tidak
+Perempuan,42.0,0,0,Tidak Diketahui,27.32,5.7,80,Tidak
+Laki-laki,37.0,0,0,Pernah,25.72,3.5,159,Tidak
+Laki-laki,40.0,0,0,Masih Merokok,36.38,6.0,90,Tidak
+Laki-laki,5.0,0,0,Tidak Diketahui,18.8,6.2,85,Tidak
+Perempuan,69.0,0,0,Tidak Pernah,21.24,4.8,85,Tidak
+Perempuan,72.0,0,1,Pernah Merokok,27.94,6.5,130,Tidak
+Perempuan,4.0,0,0,Tidak Diketahui,13.99,4.0,140,Tidak
+Laki-laki,30.0,0,0,Tidak Pernah,33.76,6.1,126,Tidak
+Laki-laki,67.0,0,1,Tidak Saat Ini,27.32,6.5,200,Ya
+Laki-laki,40.0,0,0,Pernah Merokok,27.85,5.8,80,Tidak
+Laki-laki,45.0,1,0,Tidak Pernah,26.47,4.0,158,Tidak
+Laki-laki,43.0,0,0,Tidak Pernah,26.08,6.1,155,Tidak
+Perempuan,53.0,0,0,Tidak Diketahui,31.75,4.0,200,Tidak
+Laki-laki,50.0,0,0,Tidak Diketahui,25.15,4.0,145,Tidak
+Perempuan,41.0,0,0,Masih Merokok,22.01,6.2,126,Tidak
+Perempuan,20.0,0,0,Tidak Pernah,22.19,3.5,100,Tidak
+Perempuan,76.0,0,0,Tidak Pernah,23.55,5.0,85,Tidak
+Laki-laki,5.0,0,0,Tidak Diketahui,15.1,5.8,85,Tidak
+Perempuan,15.0,0,0,Tidak Diketahui,21.76,4.5,130,Tidak
+Perempuan,26.0,0,0,Tidak Pernah,21.22,6.6,200,Tidak
+Laki-laki,50.0,1,0,Masih Merokok,27.32,5.7,260,Ya
+Perempuan,34.0,0,0,Tidak Pernah,56.43,6.2,200,Tidak
+Laki-laki,73.0,0,0,Pernah Merokok,25.91,9.0,160,Ya
+Laki-laki,5.0,0,0,Tidak Diketahui,27.32,6.6,130,Tidak
+Perempuan,77.0,1,1,Tidak Pernah,32.02,5.0,159,Tidak
+Perempuan,66.0,0,0,Tidak Diketahui,29.3,4.8,159,Tidak
+Perempuan,67.0,0,0,Tidak Diketahui,27.32,3.5,160,Tidak
+Perempuan,44.0,0,0,Tidak Pernah,24.93,6.1,100,Tidak
+Perempuan,29.0,0,0,Tidak Pernah,19.95,5.0,90,Tidak
+Perempuan,60.0,0,0,Tidak Pernah,18.03,4.0,159,Tidak
+Perempuan,38.0,0,0,Tidak Pernah,28.27,6.2,155,Tidak
+Perempuan,3.0,0,0,Tidak Diketahui,19.27,6.5,100,Tidak
+Laki-laki,57.0,0,0,Tidak Pernah,27.32,6.1,155,Tidak
+Perempuan,26.0,0,0,Tidak Diketahui,27.32,4.0,200,Tidak
+Perempuan,74.0,0,0,Tidak Diketahui,28.12,5.0,100,Tidak
+Perempuan,53.0,0,0,Pernah Merokok,27.32,7.0,159,Ya
+Perempuan,45.0,1,0,Tidak Pernah,23.05,4.8,130,Tidak
+Laki-laki,50.0,0,0,Pernah Merokok,37.16,9.0,159,Ya
+Laki-laki,30.0,0,0,Tidak Diketahui,27.32,6.6,140,Tidak
+Perempuan,19.0,0,0,Tidak Pernah,23.35,3.5,155,Tidak
+Laki-laki,46.0,0,0,Tidak Diketahui,24.41,5.0,140,Tidak
+Perempuan,67.0,0,0,Tidak Pernah,63.48,8.8,155,Ya
+Laki-laki,44.0,1,0,Masih Merokok,27.86,6.6,145,Tidak
+Perempuan,21.0,0,0,Tidak Saat Ini,26.1,5.8,140,Tidak
+Perempuan,30.0,0,0,Masih Merokok,27.32,6.5,158,Tidak
+Perempuan,59.0,0,0,Pernah Merokok,27.32,6.0,159,Tidak
+Perempuan,27.0,0,0,Tidak Saat Ini,30.22,5.7,100,Tidak
+Perempuan,59.0,0,1,Pernah,23.11,6.5,200,Tidak
+Perempuan,19.0,0,0,Tidak Saat Ini,27.32,5.7,145,Tidak
+Perempuan,13.0,0,0,Tidak Diketahui,28.16,5.0,90,Tidak
+Laki-laki,56.0,0,0,Tidak Pernah,26.78,4.8,200,Tidak
+Laki-laki,2.0,0,0,Tidak Diketahui,23.04,5.7,160,Tidak
+Laki-laki,7.0,0,0,Tidak Diketahui,15.94,5.8,158,Tidak
+Laki-laki,3.0,0,0,Tidak Diketahui,15.8,6.2,90,Tidak
+Perempuan,30.0,0,0,Tidak Pernah,27.01,6.2,145,Tidak
+Laki-laki,43.0,0,0,Tidak Saat Ini,27.32,3.5,126,Tidak
+Perempuan,76.0,0,0,Tidak Pernah,22.19,6.6,158,Tidak
+Perempuan,41.0,0,0,Tidak Pernah,27.45,5.7,130,Tidak
+Perempuan,11.0,0,0,Tidak Diketahui,17.98,6.5,159,Tidak
+Perempuan,26.0,0,0,Tidak Pernah,26.45,5.7,158,Tidak
+Laki-laki,34.0,0,0,Tidak Pernah,31.16,5.8,90,Tidak
+Laki-laki,80.0,0,0,Pernah Merokok,24.42,4.0,160,Tidak
+Perempuan,37.0,0,0,Tidak Diketahui,30.5,5.7,159,Tidak
+Laki-laki,57.0,0,0,Tidak Diketahui,27.32,8.2,126,Ya
+Perempuan,53.0,0,0,Pernah Merokok,26.37,4.5,200,Tidak
+Laki-laki,54.0,0,0,Tidak Pernah,31.86,6.6,145,Tidak
+Perempuan,37.0,0,0,Tidak Diketahui,21.25,6.1,200,Tidak
+Perempuan,56.0,0,0,Tidak Pernah,30.95,6.5,145,Tidak
+Laki-laki,79.0,0,0,Pernah Merokok,31.19,5.8,155,Tidak
+Perempuan,36.0,0,0,Masih Merokok,32.27,6.2,220,Ya
+Perempuan,38.0,0,0,Pernah,22.42,6.0,85,Tidak
+Perempuan,6.0,0,0,Tidak Diketahui,16.39,6.6,200,Tidak
+Perempuan,42.0,0,0,Tidak Pernah,17.46,6.2,155,Tidak
+Perempuan,44.0,0,0,Tidak Pernah,37.35,5.7,145,Tidak
+Laki-laki,54.0,0,0,Pernah Merokok,32.85,5.0,160,Tidak
+Laki-laki,38.0,0,0,Tidak Pernah,55.61,6.5,130,Tidak
+Perempuan,60.0,0,0,Tidak Pernah,27.32,7.5,300,Ya
+Laki-laki,19.0,0,0,Tidak Pernah,27.32,6.1,80,Tidak
+Perempuan,67.0,0,0,Tidak Pernah,27.32,6.2,159,Ya
+Laki-laki,11.0,0,0,Tidak Diketahui,27.32,6.1,90,Tidak
+Perempuan,30.0,0,0,Tidak Diketahui,50.13,6.0,100,Tidak
+Laki-laki,29.0,0,0,Masih Merokok,27.32,4.8,158,Tidak
+Laki-laki,38.0,0,0,Tidak Pernah,27.32,6.0,158,Tidak
+Perempuan,74.0,0,0,Pernah Merokok,27.32,6.6,85,Tidak
+Laki-laki,27.0,0,0,Tidak Diketahui,27.32,6.2,90,Tidak
+Perempuan,55.0,0,0,Pernah,18.6,6.0,160,Tidak
+Perempuan,80.0,1,0,Tidak Pernah,27.32,6.8,280,Ya
+Perempuan,57.0,0,0,Tidak Pernah,24.18,5.8,130,Tidak
+Perempuan,80.0,0,0,Tidak Diketahui,27.32,4.8,80,Tidak
+Perempuan,80.0,0,0,Tidak Pernah,37.26,4.0,140,Tidak
+Laki-laki,40.0,0,0,Tidak Diketahui,27.32,4.8,200,Tidak
+Perempuan,9.0,0,0,Tidak Diketahui,19.39,6.0,130,Tidak
+Perempuan,50.0,0,0,Tidak Diketahui,31.21,6.2,130,Tidak
+Perempuan,62.0,0,0,Tidak Pernah,21.12,5.0,126,Tidak
+Laki-laki,37.0,0,0,Tidak Diketahui,27.14,3.5,90,Tidak
+Perempuan,47.0,0,0,Tidak Pernah,20.6,4.0,145,Tidak
+Perempuan,55.0,1,0,Tidak Pernah,34.2,5.7,140,Tidak
+Laki-laki,28.0,0,0,Tidak Pernah,27.63,6.2,130,Tidak
+Perempuan,66.0,0,0,Tidak Saat Ini,20.3,6.1,160,Tidak
+Perempuan,43.0,0,0,Masih Merokok,18.67,6.2,85,Tidak
+Perempuan,12.0,0,0,Tidak Diketahui,20.9,3.5,158,Tidak
+Laki-laki,68.0,1,1,Masih Merokok,27.32,5.0,126,Tidak
+Perempuan,36.0,0,0,Tidak Diketahui,27.32,3.5,160,Tidak
+Laki-laki,27.0,0,0,Tidak Diketahui,20.41,6.6,159,Tidak
+Perempuan,5.0,0,0,Tidak Pernah,16.76,5.8,160,Tidak
+Laki-laki,75.0,0,0,Pernah Merokok,27.32,6.1,100,Tidak
+Laki-laki,7.0,0,0,Tidak Diketahui,15.06,6.5,130,Tidak
+Perempuan,77.0,0,0,Tidak Pernah,31.7,6.5,280,Ya
+Laki-laki,79.0,1,0,Tidak Diketahui,28.73,6.6,160,Tidak
+Perempuan,79.0,0,0,Tidak Pernah,25.18,5.0,130,Tidak
+Perempuan,22.0,0,0,Tidak Pernah,25.77,4.0,145,Tidak
+Laki-laki,58.0,0,0,Pernah Merokok,36.53,5.8,160,Tidak
+Laki-laki,11.0,0,0,Tidak Diketahui,27.59,6.6,100,Tidak
+Laki-laki,40.0,0,0,Tidak Diketahui,27.32,6.1,158,Tidak
+Perempuan,79.0,0,0,Tidak Diketahui,27.32,3.5,200,Tidak
+Perempuan,28.0,0,0,Tidak Saat Ini,26.79,5.8,200,Tidak
+Laki-laki,18.0,0,0,Tidak Diketahui,35.55,5.0,200,Tidak
+Laki-laki,80.0,0,0,Tidak Pernah,22.06,9.0,155,Ya
+Perempuan,47.0,0,0,Tidak Pernah,36.49,7.5,155,Ya
+Perempuan,24.0,0,0,Masih Merokok,25.15,6.1,155,Tidak
+Perempuan,42.0,0,0,Tidak Saat Ini,27.8,6.0,85,Tidak
+Laki-laki,18.0,0,0,Tidak Pernah,23.76,4.8,160,Tidak
+Perempuan,80.0,1,0,Tidak Pernah,44.06,6.5,160,Tidak
+Perempuan,34.0,0,0,Tidak Pernah,27.32,6.0,160,Tidak
+Perempuan,80.0,0,0,Pernah Merokok,21.97,7.0,300,Ya
+Laki-laki,38.0,0,0,Tidak Diketahui,29.4,5.0,90,Tidak
+Perempuan,80.0,0,0,Tidak Pernah,20.16,6.5,130,Tidak
+Perempuan,80.0,0,0,Tidak Diketahui,27.32,6.0,200,Tidak
+Laki-laki,53.0,0,0,Masih Merokok,30.8,6.6,280,Ya
+Laki-laki,34.0,0,0,Tidak Diketahui,24.0,5.0,85,Tidak
+Perempuan,17.0,0,0,Tidak Diketahui,22.95,6.5,90,Tidak
+Perempuan,29.0,0,0,Tidak Diketahui,33.22,3.5,159,Tidak
+Laki-laki,55.0,0,0,Masih Merokok,27.32,6.0,80,Tidak
+Perempuan,12.0,0,0,Tidak Diketahui,27.93,5.7,160,Tidak
+Perempuan,29.0,0,0,Tidak Pernah,29.6,5.7,140,Tidak
+Perempuan,25.0,0,0,Tidak Diketahui,27.32,5.8,90,Tidak
+Perempuan,67.0,0,0,Tidak Pernah,25.15,5.8,145,Tidak
+Perempuan,0.08,0,0,Tidak Diketahui,14.43,6.5,160,Tidak
+Perempuan,54.0,0,0,Pernah,26.72,6.1,158,Tidak
+Perempuan,33.0,0,0,Tidak Pernah,41.24,4.0,160,Tidak
+Perempuan,68.0,0,0,Pernah Merokok,34.87,5.8,100,Tidak
+Perempuan,38.0,0,0,Tidak Diketahui,23.96,6.1,145,Tidak
+Perempuan,62.0,0,0,Tidak Diketahui,36.27,6.5,200,Tidak
+Perempuan,57.0,0,0,Pernah Merokok,29.06,6.5,130,Tidak
+Laki-laki,59.0,0,1,Pernah,30.85,5.0,126,Tidak
+Laki-laki,16.0,0,0,Tidak Pernah,17.61,6.5,158,Tidak
+Perempuan,21.0,0,0,Tidak Diketahui,27.7,3.5,159,Tidak
+Perempuan,15.0,0,0,Tidak Pernah,19.21,4.5,130,Tidak
+Perempuan,33.0,0,0,Tidak Diketahui,22.34,5.7,100,Tidak
+Perempuan,80.0,0,1,Tidak Pernah,29.59,5.8,158,Tidak
+Perempuan,46.0,0,0,Pernah Merokok,35.44,3.5,140,Tidak
+Perempuan,61.0,0,0,Tidak Saat Ini,39.36,9.0,140,Ya
+Perempuan,31.0,0,0,Pernah,27.39,4.0,159,Tidak
+Laki-laki,41.0,0,0,Tidak Pernah,27.32,4.0,159,Tidak
+Perempuan,34.0,0,0,Tidak Diketahui,27.32,6.1,126,Tidak
+Laki-laki,8.0,0,0,Tidak Diketahui,27.32,6.6,155,Tidak
+Laki-laki,76.0,0,0,Tidak Pernah,31.9,7.5,155,Ya
+Laki-laki,60.0,0,0,Tidak Diketahui,27.32,6.6,100,Tidak
+Perempuan,49.0,0,0,Tidak Pernah,26.61,4.8,158,Tidak
+Perempuan,59.0,0,0,Pernah,23.08,6.1,130,Tidak
+Laki-laki,31.0,0,0,Tidak Pernah,25.84,3.5,158,Tidak
+Laki-laki,25.0,0,0,Tidak Pernah,27.32,6.1,140,Tidak
+Perempuan,59.0,0,0,Tidak Pernah,25.8,5.7,90,Tidak
+Laki-laki,39.0,0,0,Tidak Pernah,27.32,5.7,159,Tidak
+Perempuan,25.0,0,0,Tidak Pernah,26.02,4.0,160,Tidak
+Laki-laki,9.0,0,0,Tidak Diketahui,27.32,6.5,85,Tidak
+Perempuan,27.0,0,0,Tidak Diketahui,27.32,6.1,145,Tidak
+Laki-laki,41.0,0,0,Pernah Merokok,23.56,6.5,140,Tidak
+Perempuan,29.0,0,0,Tidak Pernah,24.65,4.5,145,Tidak
+Perempuan,40.0,0,0,Tidak Diketahui,27.32,5.7,160,Tidak
+Perempuan,21.0,0,0,Masih Merokok,25.11,6.6,145,Tidak
+Perempuan,77.0,0,0,Tidak Pernah,27.32,6.5,140,Tidak
+Laki-laki,27.0,0,0,Tidak Diketahui,27.32,6.0,90,Tidak
+Laki-laki,65.0,0,0,Tidak Saat Ini,30.37,3.5,145,Tidak
+Perempuan,56.0,0,0,Tidak Pernah,21.54,6.0,85,Tidak
+Perempuan,26.0,0,0,Tidak Pernah,40.9,6.1,140,Tidak
+Perempuan,41.0,0,0,Tidak Pernah,26.7,6.2,130,Tidak
+Perempuan,45.0,0,0,Pernah Merokok,42.24,6.1,130,Tidak
+Laki-laki,80.0,0,0,Tidak Diketahui,27.32,6.0,140,Tidak
+Laki-laki,76.0,0,0,Tidak Pernah,23.93,5.8,130,Tidak
+Perempuan,3.0,0,0,Tidak Diketahui,15.48,5.7,130,Tidak
+Perempuan,43.0,0,0,Tidak Pernah,26.71,6.5,300,Ya
+Perempuan,20.0,0,0,Tidak Pernah,28.25,5.8,140,Tidak
+Perempuan,20.0,0,0,Tidak Saat Ini,30.68,4.0,200,Tidak
+Perempuan,38.0,0,0,Tidak Diketahui,36.96,5.7,200,Tidak
+Laki-laki,14.0,0,0,Tidak Pernah,23.59,3.5,130,Tidak
+Perempuan,46.0,0,0,Tidak Diketahui,23.56,3.5,90,Tidak
+Laki-laki,6.0,0,0,Tidak Diketahui,27.32,5.7,200,Tidak
+Perempuan,42.0,0,0,Tidak Diketahui,27.32,5.8,100,Tidak
+Perempuan,24.0,0,0,Tidak Diketahui,32.81,5.8,159,Tidak
+Perempuan,41.0,0,0,Tidak Diketahui,35.15,4.0,159,Tidak
+Laki-laki,38.0,0,0,Tidak Saat Ini,29.41,4.5,126,Tidak
+Laki-laki,24.0,0,0,Pernah,26.72,6.2,130,Tidak
+Laki-laki,21.0,0,0,Tidak Diketahui,22.17,4.0,80,Tidak
+Perempuan,70.0,0,0,Tidak Pernah,27.5,5.7,145,Tidak
+Laki-laki,80.0,0,0,Tidak Pernah,29.95,5.8,145,Tidak
+Perempuan,29.0,0,0,Tidak Diketahui,26.57,3.5,200,Tidak
+Laki-laki,46.0,0,0,Tidak Diketahui,27.32,5.0,158,Tidak
+Laki-laki,18.0,0,0,Tidak Diketahui,21.78,6.0,200,Tidak
+Perempuan,27.0,0,0,Tidak Pernah,20.89,6.5,80,Tidak
+Perempuan,0.56,0,0,Tidak Diketahui,16.85,5.0,140,Tidak
+Laki-laki,2.0,0,0,Tidak Diketahui,17.46,4.5,126,Tidak
+Perempuan,53.0,0,0,Tidak Diketahui,31.7,6.2,126,Tidak
+Laki-laki,6.0,0,0,Tidak Diketahui,13.79,6.5,160,Tidak
+Perempuan,37.0,0,0,Tidak Pernah,26.04,4.5,159,Tidak
+Perempuan,60.0,0,0,Pernah Merokok,34.31,6.1,100,Tidak
+Perempuan,14.0,0,0,Tidak Pernah,28.22,6.2,85,Tidak
+Perempuan,48.0,1,0,Tidak Pernah,36.73,6.6,126,Tidak
+Laki-laki,2.0,0,0,Tidak Diketahui,27.32,5.7,85,Tidak
+Perempuan,21.0,0,0,Tidak Pernah,27.32,5.8,126,Tidak
+Perempuan,31.0,0,0,Tidak Pernah,32.92,3.5,126,Tidak
+Perempuan,19.0,0,0,Tidak Pernah,21.46,6.5,155,Tidak
+Laki-laki,57.0,0,0,Pernah Merokok,29.28,6.6,160,Tidak
+Perempuan,16.0,0,0,Tidak Diketahui,21.54,6.2,130,Tidak
+Perempuan,80.0,0,0,Pernah Merokok,27.32,6.2,145,Tidak
+Laki-laki,11.0,0,0,Tidak Pernah,17.09,6.6,126,Tidak
+Laki-laki,51.0,0,0,Tidak Pernah,27.32,4.8,145,Tidak
+Perempuan,71.0,0,0,Tidak Diketahui,27.32,5.0,126,Tidak
+Laki-laki,55.0,0,0,Tidak Diketahui,27.32,6.8,159,Ya
+Perempuan,19.0,0,0,Tidak Diketahui,27.32,3.5,130,Tidak
+Laki-laki,59.0,1,0,Tidak Diketahui,25.31,6.0,130,Tidak
+Perempuan,26.0,0,0,Tidak Diketahui,28.89,4.8,160,Tidak
+Laki-laki,18.0,0,0,Tidak Diketahui,31.2,4.8,126,Tidak
+Laki-laki,0.88,0,0,Tidak Diketahui,17.49,6.0,140,Tidak
+Laki-laki,57.0,1,1,Tidak Saat Ini,27.77,6.6,160,Ya
+Perempuan,37.0,0,0,Tidak Pernah,32.31,5.7,126,Tidak
+Perempuan,31.0,0,0,Tidak Pernah,25.11,5.7,145,Tidak
+Laki-laki,4.0,0,0,Tidak Diketahui,15.57,6.2,130,Tidak
+Laki-laki,74.0,0,0,Tidak Diketahui,27.32,6.0,159,Tidak
+Laki-laki,48.0,0,0,Pernah,27.32,6.6,160,Tidak
+Laki-laki,17.0,0,0,Tidak Diketahui,20.38,6.6,160,Tidak
+Perempuan,59.0,0,0,Tidak Pernah,22.35,4.8,155,Tidak
+Laki-laki,30.0,0,0,Tidak Pernah,29.34,6.6,140,Tidak
+Laki-laki,17.0,0,0,Tidak Pernah,24.88,5.7,158,Tidak
+Laki-laki,9.0,0,0,Tidak Saat Ini,20.56,5.8,200,Tidak
+Perempuan,64.0,0,0,Tidak Pernah,27.32,6.2,155,Ya
+Laki-laki,63.0,1,0,Pernah,35.06,5.8,200,Ya
+Perempuan,46.0,0,0,Tidak Pernah,29.06,6.6,145,Tidak
+Perempuan,52.0,1,0,Tidak Pernah,21.46,4.0,80,Tidak
+Laki-laki,38.0,0,0,Tidak Pernah,29.6,5.8,155,Tidak
+Laki-laki,27.0,0,0,Tidak Pernah,27.32,6.1,140,Tidak
+Laki-laki,63.0,0,0,Tidak Pernah,22.3,5.7,126,Tidak
+Perempuan,17.0,0,0,Tidak Saat Ini,23.49,4.8,158,Tidak
+Perempuan,55.0,0,0,Tidak Saat Ini,38.08,5.7,158,Tidak
+Laki-laki,80.0,0,0,Tidak Pernah,23.25,6.1,159,Ya
+Laki-laki,4.0,0,0,Tidak Diketahui,18.2,3.5,80,Tidak
+Perempuan,4.0,0,0,Tidak Diketahui,13.57,3.5,126,Tidak
+Perempuan,4.0,0,0,Tidak Diketahui,27.32,5.0,140,Tidak
+Perempuan,70.0,0,0,Masih Merokok,29.25,8.2,130,Ya
+Perempuan,22.0,0,0,Tidak Pernah,24.36,3.5,158,Tidak
+Perempuan,0.16,0,0,Tidak Diketahui,12.15,6.6,100,Tidak
+Perempuan,54.0,0,0,Tidak Pernah,23.59,4.8,160,Tidak
+Perempuan,21.0,0,0,Pernah Merokok,30.05,6.0,160,Tidak
+Laki-laki,2.0,0,0,Tidak Diketahui,15.29,6.0,140,Tidak
+Laki-laki,69.0,0,0,Tidak Diketahui,26.96,6.5,155,Tidak
+Perempuan,43.0,0,0,Tidak Pernah,22.29,4.8,100,Tidak
+Perempuan,58.0,0,0,Tidak Pernah,39.3,4.8,158,Tidak
+Perempuan,32.0,0,0,Masih Merokok,32.62,5.8,85,Tidak
+Perempuan,48.0,1,0,Tidak Diketahui,24.29,3.5,90,Tidak
+Laki-laki,21.0,0,0,Tidak Pernah,24.19,5.7,200,Tidak
+Perempuan,59.0,1,0,Tidak Pernah,27.4,5.7,140,Tidak
+Laki-laki,14.0,0,0,Tidak Diketahui,21.06,6.6,160,Tidak
+Laki-laki,50.0,0,0,Pernah,25.29,6.5,155,Tidak
+Laki-laki,19.0,0,0,Tidak Pernah,21.83,6.1,155,Tidak
+Laki-laki,62.0,0,0,Tidak Diketahui,27.32,4.0,200,Tidak
+Perempuan,56.0,0,0,Tidak Diketahui,33.83,6.5,90,Tidak
+Perempuan,27.0,0,0,Tidak Diketahui,32.6,5.0,159,Tidak
+Perempuan,38.0,0,0,Tidak Pernah,24.3,6.0,145,Tidak
+Perempuan,65.0,0,0,Tidak Pernah,23.71,6.2,85,Tidak
+Perempuan,39.0,0,0,Tidak Diketahui,27.32,6.6,140,Tidak
+Perempuan,18.0,0,0,Tidak Pernah,19.6,3.5,140,Tidak
+Laki-laki,10.0,0,0,Tidak Diketahui,19.0,6.6,155,Tidak
+Laki-laki,27.0,0,0,Tidak Pernah,20.53,6.6,155,Tidak
+Laki-laki,48.0,0,0,Tidak Diketahui,27.32,4.8,200,Tidak
+Perempuan,57.0,0,0,Tidak Pernah,25.8,3.5,130,Tidak
+Perempuan,48.0,0,0,Tidak Pernah,20.19,7.0,145,Ya
+Laki-laki,44.0,0,0,Tidak Diketahui,27.07,6.1,159,Tidak
+Perempuan,48.0,0,0,Tidak Diketahui,30.55,6.0,85,Tidak
+Perempuan,2.0,0,0,Tidak Diketahui,14.69,5.0,159,Tidak
+Perempuan,41.0,0,0,Tidak Diketahui,27.32,4.5,155,Tidak
+Perempuan,50.0,0,0,Tidak Diketahui,27.32,6.6,85,Tidak
+Perempuan,42.0,0,0,Tidak Pernah,24.81,9.0,159,Ya
+Perempuan,66.0,0,0,Tidak Pernah,27.32,4.0,85,Tidak
+Perempuan,43.0,0,0,Tidak Diketahui,27.32,6.0,126,Tidak
+Laki-laki,24.0,0,0,Tidak Pernah,20.91,4.5,158,Tidak
+Perempuan,25.0,0,0,Pernah Merokok,27.25,5.0,159,Tidak
+Laki-laki,46.0,0,0,Tidak Pernah,31.7,6.5,100,Tidak
+Perempuan,21.0,0,0,Tidak Pernah,36.54,5.7,100,Tidak
+Perempuan,80.0,0,1,Pernah Merokok,21.3,5.0,159,Tidak
+Laki-laki,31.0,0,0,Pernah Merokok,25.25,4.8,140,Tidak
+Perempuan,47.0,0,0,Masih Merokok,27.32,6.2,155,Tidak
+Perempuan,52.0,0,0,Tidak Pernah,23.75,6.5,90,Tidak
+Laki-laki,35.0,0,0,Tidak Saat Ini,26.4,4.0,130,Tidak
+Laki-laki,50.0,0,0,Tidak Pernah,33.36,5.8,158,Tidak
+Laki-laki,46.0,0,0,Tidak Pernah,35.35,5.7,90,Tidak
+Laki-laki,6.0,0,0,Tidak Diketahui,27.32,6.2,155,Tidak
+Laki-laki,74.0,0,0,Tidak Diketahui,27.32,6.1,80,Tidak
+Perempuan,61.0,0,0,Pernah Merokok,21.43,4.8,85,Tidak
+Laki-laki,40.0,0,0,Masih Merokok,29.49,6.0,130,Tidak
+Perempuan,52.0,0,0,Tidak Diketahui,20.08,6.6,100,Tidak
+Perempuan,27.0,0,0,Tidak Pernah,20.67,6.2,159,Tidak
+Laki-laki,17.0,0,0,Tidak Diketahui,20.16,6.0,155,Tidak
+Laki-laki,43.0,0,0,Tidak Pernah,39.46,5.8,200,Tidak
+Perempuan,80.0,0,0,Pernah Merokok,36.18,6.5,200,Ya
+Perempuan,80.0,0,0,Pernah Merokok,43.14,6.0,158,Tidak
+Perempuan,50.0,0,0,Pernah Merokok,21.66,4.5,126,Tidak
+Perempuan,43.0,0,0,Tidak Pernah,27.82,5.8,159,Tidak
+Laki-laki,17.0,0,0,Tidak Pernah,16.96,6.2,130,Tidak
+Perempuan,80.0,0,0,Tidak Pernah,35.49,5.7,159,Tidak
+Perempuan,7.0,0,0,Tidak Diketahui,15.7,6.1,80,Tidak
+Perempuan,73.0,0,0,Tidak Diketahui,27.32,6.0,145,Tidak
+Laki-laki,61.0,0,0,Tidak Diketahui,27.32,6.2,130,Tidak
+Perempuan,21.0,0,0,Tidak Diketahui,17.47,6.2,126,Tidak
+Perempuan,10.0,0,0,Tidak Diketahui,27.32,3.5,158,Tidak
+Laki-laki,55.0,0,0,Pernah,23.88,6.1,158,Tidak
+Laki-laki,56.0,0,0,Tidak Diketahui,26.35,3.5,100,Tidak
+Perempuan,15.0,0,0,Tidak Pernah,19.9,6.6,85,Tidak
+Laki-laki,30.0,0,0,Pernah Merokok,27.32,6.2,159,Tidak
+Laki-laki,66.0,0,0,Tidak Saat Ini,27.32,5.7,159,Tidak
+Laki-laki,2.0,0,0,Tidak Diketahui,27.32,4.8,80,Tidak
+Laki-laki,56.0,0,0,Tidak Pernah,37.59,4.0,159,Tidak
+Laki-laki,60.0,0,0,Tidak Diketahui,25.4,4.0,200,Tidak
+Laki-laki,27.0,0,0,Tidak Diketahui,27.32,3.5,100,Tidak
+Laki-laki,54.0,0,0,Tidak Diketahui,30.41,5.0,158,Tidak
+Perempuan,60.0,0,0,Tidak Pernah,27.32,4.8,158,Tidak
+Perempuan,34.0,0,0,Masih Merokok,37.07,5.7,140,Tidak
+Laki-laki,40.0,0,0,Tidak Diketahui,27.32,5.0,130,Tidak
+Perempuan,52.0,1,0,Tidak Saat Ini,22.48,5.0,158,Tidak
+Perempuan,41.0,0,0,Tidak Pernah,26.02,5.8,80,Tidak
+Laki-laki,2.0,0,0,Tidak Pernah,24.62,4.0,155,Tidak
+Laki-laki,65.0,0,0,Masih Merokok,31.88,3.5,90,Tidak
+Perempuan,80.0,0,0,Tidak Pernah,25.15,4.8,85,Tidak
+Perempuan,52.0,1,0,Tidak Pernah,50.3,6.6,155,Ya
+Perempuan,22.0,0,0,Tidak Pernah,27.32,4.8,80,Tidak
+Laki-laki,17.0,0,0,Tidak Pernah,44.0,6.0,145,Tidak
+Perempuan,32.0,0,0,Masih Merokok,25.21,5.0,100,Tidak
+Laki-laki,71.0,0,0,Tidak Pernah,27.09,8.2,200,Ya
+Perempuan,16.0,0,0,Tidak Diketahui,27.32,4.8,200,Tidak
+Laki-laki,48.0,0,0,Tidak Pernah,35.24,6.6,100,Tidak
+Laki-laki,10.0,0,0,Tidak Diketahui,27.32,6.1,90,Tidak
+Laki-laki,80.0,0,0,Pernah Merokok,28.27,5.8,100,Tidak
+Perempuan,66.0,0,0,Pernah Merokok,35.13,6.5,90,Tidak
+Laki-laki,2.0,0,0,Tidak Diketahui,14.9,6.5,130,Tidak
+Laki-laki,80.0,0,1,Pernah Merokok,24.36,7.5,280,Ya
+Perempuan,67.0,0,0,Masih Merokok,26.07,4.5,145,Tidak
+Laki-laki,10.0,0,0,Tidak Diketahui,23.9,6.1,160,Tidak
+Laki-laki,27.0,0,0,Tidak Pernah,24.78,6.2,159,Tidak
+Laki-laki,33.0,0,0,Tidak Diketahui,30.71,6.0,160,Tidak
+Laki-laki,80.0,0,1,Tidak Diketahui,32.37,6.6,80,Tidak
+Perempuan,49.0,0,0,Masih Merokok,24.34,5.7,80,Tidak
+Perempuan,60.0,0,0,Tidak Pernah,26.39,4.5,158,Tidak
+Perempuan,27.0,0,0,Tidak Pernah,25.46,6.1,100,Tidak
+Laki-laki,59.0,0,0,Masih Merokok,29.2,8.2,220,Ya
+Laki-laki,33.0,0,0,Tidak Pernah,28.37,6.6,85,Tidak
+Perempuan,56.0,0,0,Tidak Saat Ini,26.62,3.5,160,Tidak
+Perempuan,42.0,1,0,Tidak Pernah,39.29,6.6,159,Tidak
+Perempuan,60.0,1,0,Masih Merokok,48.02,6.0,85,Tidak
+Perempuan,55.0,1,0,Tidak Pernah,32.2,6.0,140,Tidak
+Perempuan,22.0,0,0,Tidak Saat Ini,20.53,5.8,159,Tidak
+Perempuan,22.0,0,0,Tidak Pernah,27.32,4.5,159,Tidak
+Perempuan,29.0,0,0,Tidak Diketahui,51.76,4.0,90,Tidak
+Laki-laki,6.0,0,0,Tidak Diketahui,22.6,6.1,130,Tidak
+Laki-laki,80.0,0,1,Pernah Merokok,15.65,6.5,145,Tidak
+Perempuan,20.0,0,0,Tidak Diketahui,24.03,6.1,159,Tidak
+Perempuan,71.0,0,0,Pernah,25.15,4.5,85,Tidak
+Perempuan,80.0,0,0,Tidak Diketahui,27.32,4.8,145,Tidak
+Laki-laki,28.0,0,0,Tidak Pernah,32.61,4.8,100,Tidak
+Perempuan,43.0,0,0,Tidak Diketahui,27.32,4.8,160,Tidak
+Perempuan,53.0,0,0,Pernah Merokok,36.3,5.8,126,Tidak
+Perempuan,4.0,0,0,Tidak Pernah,17.1,6.5,158,Tidak
+Laki-laki,75.0,0,0,Tidak Pernah,19.9,5.0,85,Tidak
+Perempuan,52.0,0,0,Tidak Pernah,27.32,4.0,159,Tidak
+Laki-laki,68.0,0,0,Masih Merokok,19.47,4.8,160,Tidak
+Perempuan,61.0,0,0,Tidak Pernah,31.57,5.7,155,Tidak
+Laki-laki,29.0,0,0,Masih Merokok,25.41,6.1,130,Ya
+Perempuan,62.0,0,0,Tidak Pernah,27.32,5.8,100,Tidak
+Laki-laki,26.0,0,0,Masih Merokok,22.43,6.6,160,Tidak
+Perempuan,15.0,0,0,Tidak Diketahui,20.98,5.0,155,Tidak
+Laki-laki,0.16,0,0,Tidak Diketahui,14.35,6.5,126,Tidak
+Laki-laki,9.0,0,0,Tidak Pernah,17.13,3.5,100,Tidak
+Perempuan,50.0,0,0,Masih Merokok,24.02,6.1,100,Tidak
+Perempuan,76.0,0,0,Tidak Diketahui,27.32,6.2,160,Tidak
+Perempuan,59.0,0,0,Tidak Diketahui,33.26,6.1,159,Tidak
+Laki-laki,9.0,0,0,Tidak Diketahui,17.68,4.5,130,Tidak
+Perempuan,27.0,0,0,Tidak Pernah,26.25,5.7,100,Tidak
+Perempuan,46.0,0,0,Tidak Diketahui,16.59,4.8,145,Tidak
+Laki-laki,6.0,0,0,Tidak Diketahui,20.12,5.7,160,Tidak
+Laki-laki,66.0,1,0,Pernah Merokok,31.28,3.5,80,Tidak
+Laki-laki,77.0,1,0,Tidak Pernah,26.32,5.8,90,Tidak
+Laki-laki,37.0,0,0,Pernah Merokok,37.8,4.8,130,Tidak
+Perempuan,41.0,0,0,Tidak Pernah,37.5,3.5,80,Tidak
+Perempuan,80.0,1,0,Pernah,29.08,6.2,145,Tidak
+Perempuan,45.0,0,0,Masih Merokok,27.32,6.5,200,Tidak
+Laki-laki,17.0,0,0,Tidak Diketahui,38.64,6.2,145,Tidak
+Perempuan,25.0,0,0,Tidak Pernah,25.23,5.0,155,Tidak
+Laki-laki,51.0,0,0,Tidak Pernah,38.14,6.0,100,Tidak
+Perempuan,68.0,0,0,Tidak Diketahui,40.31,7.5,260,Ya
+Perempuan,65.0,0,0,Pernah,30.41,5.8,160,Tidak
+Perempuan,19.0,0,0,Tidak Diketahui,22.73,6.6,159,Tidak
+Perempuan,55.0,0,0,Tidak Diketahui,27.32,6.2,158,Tidak
+Perempuan,52.0,0,0,Tidak Diketahui,27.32,9.0,140,Ya
+Perempuan,34.0,0,0,Tidak Pernah,21.3,6.1,130,Tidak
+Perempuan,53.0,0,0,Tidak Pernah,45.99,6.1,145,Tidak
+Laki-laki,3.0,0,0,Tidak Diketahui,27.32,3.5,155,Tidak
+Perempuan,21.0,0,0,Tidak Saat Ini,27.32,6.6,80,Tidak
+Laki-laki,26.0,0,0,Tidak Pernah,27.32,6.6,100,Tidak
+Perempuan,46.0,0,0,Masih Merokok,16.02,3.5,85,Tidak
+Perempuan,23.0,0,0,Tidak Diketahui,24.56,3.5,155,Tidak
+Laki-laki,57.0,0,0,Tidak Diketahui,22.83,5.8,126,Tidak
+Perempuan,64.0,0,0,Pernah Merokok,21.04,3.5,130,Tidak
+Perempuan,16.0,0,0,Tidak Diketahui,22.66,6.6,130,Tidak
+Perempuan,43.0,0,0,Tidak Pernah,40.02,4.8,159,Tidak
+Perempuan,70.0,0,0,Tidak Saat Ini,33.19,7.5,126,Ya
+Laki-laki,52.0,0,0,Tidak Diketahui,32.31,4.5,90,Tidak
+Laki-laki,42.0,0,0,Tidak Diketahui,27.32,5.7,160,Tidak
+Perempuan,80.0,0,0,Tidak Pernah,23.86,6.6,80,Tidak
+Laki-laki,63.0,0,0,Pernah Merokok,27.32,4.0,126,Tidak
+Laki-laki,6.0,0,0,Tidak Pernah,15.9,6.2,85,Tidak
+Perempuan,69.0,0,0,Pernah Merokok,24.22,6.2,140,Tidak
+Laki-laki,52.0,0,0,Tidak Pernah,27.32,5.0,159,Tidak
+Laki-laki,53.0,1,0,Pernah Merokok,22.94,6.0,126,Tidak
+Perempuan,31.0,0,0,Tidak Diketahui,26.97,4.0,159,Tidak
+Laki-laki,46.0,1,0,Tidak Pernah,30.83,4.8,200,Tidak
+Perempuan,20.0,0,0,Tidak Pernah,21.88,5.8,155,Tidak
+Perempuan,27.0,0,0,Tidak Pernah,22.4,6.6,155,Tidak
+Laki-laki,35.0,0,0,Tidak Pernah,18.56,6.1,200,Tidak
+Laki-laki,66.0,0,0,Tidak Diketahui,25.97,6.0,158,Tidak
+Perempuan,51.0,0,0,Tidak Pernah,43.42,5.0,159,Tidak
+Laki-laki,6.0,0,0,Tidak Diketahui,17.11,5.8,90,Tidak
+Laki-laki,71.0,0,0,Tidak Pernah,26.53,8.8,159,Ya
+Perempuan,57.0,0,0,Tidak Saat Ini,27.32,6.0,145,Tidak
+Perempuan,4.0,0,0,Tidak Pernah,31.53,3.5,130,Tidak
+Perempuan,15.0,0,0,Tidak Pernah,23.44,5.8,100,Tidak
+Perempuan,30.0,0,0,Masih Merokok,28.49,6.6,200,Tidak
+Perempuan,42.0,0,0,Tidak Diketahui,33.64,4.8,80,Tidak
+Perempuan,70.0,0,0,Tidak Pernah,26.71,4.5,159,Tidak
+Perempuan,58.0,0,0,Tidak Saat Ini,24.3,5.0,145,Tidak
+Laki-laki,47.0,0,0,Pernah Merokok,31.79,4.5,90,Tidak
+Perempuan,43.0,0,0,Tidak Pernah,21.05,4.5,90,Tidak
+Laki-laki,64.0,0,0,Tidak Diketahui,25.68,6.6,155,Tidak
+Laki-laki,3.0,0,0,Tidak Diketahui,15.7,6.0,130,Tidak
+Laki-laki,5.0,0,0,Tidak Diketahui,18.27,6.2,85,Tidak
+Perempuan,47.0,0,0,Tidak Diketahui,27.32,4.8,126,Tidak
+Laki-laki,14.0,0,0,Tidak Diketahui,21.29,4.8,158,Tidak
+Laki-laki,3.0,0,0,Tidak Pernah,17.97,6.6,90,Tidak
+Perempuan,36.0,0,0,Tidak Diketahui,30.73,6.2,85,Tidak
+Laki-laki,48.0,1,0,Masih Merokok,36.12,6.8,140,Ya
+Perempuan,59.0,0,0,Tidak Pernah,35.91,6.6,90,Tidak
+Perempuan,79.0,1,0,Pernah Merokok,27.32,6.5,159,Ya
+Perempuan,70.0,0,1,Tidak Saat Ini,26.72,5.7,90,Tidak
+Laki-laki,57.0,0,0,Pernah,23.9,4.5,90,Tidak
+Laki-laki,46.0,1,0,Tidak Diketahui,21.52,6.1,145,Tidak
+Perempuan,39.0,0,0,Pernah,23.65,4.5,145,Tidak
+Laki-laki,37.0,0,0,Tidak Pernah,37.24,7.0,126,Ya
+Laki-laki,21.0,0,0,Tidak Pernah,28.66,6.2,80,Tidak
+Laki-laki,43.0,0,0,Tidak Diketahui,27.32,4.8,200,Tidak
+Perempuan,80.0,0,0,Tidak Pernah,25.37,4.8,159,Tidak
+Perempuan,4.0,0,0,Tidak Diketahui,14.0,5.0,160,Tidak
+Laki-laki,80.0,0,0,Tidak Diketahui,27.32,6.0,158,Tidak
+Laki-laki,46.0,0,0,Tidak Pernah,22.38,6.0,80,Tidak
+Laki-laki,80.0,0,0,Pernah Merokok,26.4,4.8,159,Tidak
+Perempuan,19.0,0,0,Tidak Diketahui,27.32,6.2,145,Tidak
+Laki-laki,0.64,0,0,Tidak Diketahui,16.53,4.0,158,Tidak
+Perempuan,52.0,0,0,Tidak Pernah,22.83,6.2,145,Tidak
+Perempuan,29.0,0,0,Tidak Diketahui,27.32,5.0,85,Tidak
+Perempuan,13.0,0,0,Tidak Diketahui,27.32,6.5,100,Tidak
+Perempuan,54.0,0,0,Tidak Pernah,24.1,4.8,80,Tidak
+Laki-laki,15.0,0,0,Tidak Diketahui,19.15,6.6,200,Tidak
+Perempuan,17.0,0,0,Tidak Pernah,19.7,5.0,200,Tidak
+Perempuan,51.0,0,0,Tidak Pernah,23.15,6.2,200,Tidak
+Perempuan,20.0,0,0,Masih Merokok,26.87,5.7,85,Tidak
+Laki-laki,1.16,0,0,Tidak Diketahui,15.78,6.2,140,Tidak
+Perempuan,34.0,0,0,Tidak Pernah,23.91,6.5,80,Tidak
+Laki-laki,29.0,0,0,Tidak Diketahui,36.17,4.0,100,Tidak
+Perempuan,46.0,0,0,Pernah Merokok,21.66,6.1,158,Tidak
+Perempuan,59.0,1,0,Pernah Merokok,29.93,3.5,160,Tidak
+Perempuan,60.0,0,0,Tidak Pernah,28.82,6.0,130,Tidak
+Laki-laki,4.0,0,0,Tidak Diketahui,15.64,4.8,155,Tidak
+Laki-laki,70.0,0,0,Tidak Diketahui,27.32,6.5,130,Tidak
+Perempuan,80.0,0,0,Tidak Pernah,33.2,6.6,160,Tidak
+Perempuan,62.0,0,0,Tidak Diketahui,27.32,5.8,90,Tidak
+Laki-laki,75.0,1,1,Pernah,31.12,4.8,126,Tidak
+Laki-laki,73.0,0,0,Tidak Diketahui,27.32,6.6,126,Tidak
+Perempuan,8.0,0,0,Tidak Diketahui,27.32,5.8,100,Tidak
+Laki-laki,36.0,0,0,Tidak Saat Ini,46.12,6.2,130,Ya
+Laki-laki,80.0,0,0,Masih Merokok,22.53,6.1,155,Tidak
+Perempuan,78.0,1,0,Tidak Saat Ini,27.32,6.2,126,Tidak
+Perempuan,76.0,0,0,Tidak Pernah,26.88,5.8,200,Tidak
+Perempuan,29.0,0,0,Tidak Pernah,27.32,4.5,145,Tidak
+Perempuan,69.0,0,1,Tidak Pernah,32.27,6.2,160,Tidak
+Laki-laki,6.0,0,0,Tidak Diketahui,18.22,3.5,155,Tidak
+Laki-laki,23.0,0,0,Tidak Pernah,22.18,3.5,80,Tidak
+Perempuan,18.0,0,0,Tidak Diketahui,19.82,6.5,140,Tidak
+Perempuan,2.0,0,0,Tidak Diketahui,15.74,6.5,200,Tidak
+Laki-laki,57.0,0,0,Tidak Pernah,32.19,6.0,80,Tidak
+Laki-laki,23.0,0,0,Masih Merokok,27.32,5.8,85,Tidak
+Laki-laki,58.0,0,0,Tidak Saat Ini,28.59,6.6,155,Tidak
+Perempuan,26.0,0,0,Tidak Pernah,33.95,4.0,130,Tidak
+Laki-laki,63.0,0,0,Tidak Diketahui,29.44,5.7,145,Tidak
+Laki-laki,48.0,0,0,Tidak Pernah,28.35,4.8,200,Tidak
+Perempuan,67.0,0,0,Pernah Merokok,32.31,7.0,280,Ya
+Laki-laki,39.0,0,0,Masih Merokok,29.2,6.1,158,Tidak
+Perempuan,58.0,0,0,Pernah Merokok,36.47,6.2,158,Tidak
+Perempuan,27.0,0,0,Masih Merokok,22.57,6.0,145,Tidak
+Laki-laki,4.0,0,0,Tidak Diketahui,16.55,4.5,126,Tidak
+Laki-laki,19.0,0,0,Tidak Pernah,21.2,4.5,160,Tidak
+Perempuan,3.0,0,0,Tidak Diketahui,14.73,4.0,159,Tidak
+Laki-laki,62.0,0,0,Tidak Diketahui,27.32,4.8,85,Tidak
+Perempuan,59.0,0,0,Pernah,41.01,6.6,80,Tidak
+Laki-laki,46.0,0,0,Masih Merokok,32.18,6.1,126,Tidak
+Perempuan,53.0,0,0,Tidak Pernah,34.3,6.6,155,Tidak
+Perempuan,78.0,0,1,Tidak Pernah,28.73,4.8,90,Tidak
+Laki-laki,43.0,0,0,Tidak Diketahui,26.27,6.0,155,Tidak
+Perempuan,49.0,1,0,Tidak Saat Ini,36.93,8.8,155,Ya
+Laki-laki,50.0,0,0,Tidak Pernah,31.84,7.5,145,Ya
+Perempuan,67.0,0,0,Pernah,25.18,4.5,126,Tidak
+Perempuan,20.0,0,0,Tidak Diketahui,24.55,5.7,80,Tidak
+Perempuan,80.0,0,0,Tidak Pernah,20.93,6.6,126,Tidak
+Laki-laki,50.0,0,0,Tidak Pernah,27.12,5.8,80,Tidak
+Perempuan,48.0,0,0,Tidak Pernah,25.67,5.0,159,Tidak
+Perempuan,31.0,0,0,Tidak Pernah,22.95,5.7,159,Tidak
+Laki-laki,30.0,0,0,Masih Merokok,30.12,6.6,100,Tidak
+Laki-laki,73.0,0,0,Tidak Saat Ini,24.77,7.5,220,Ya
+Perempuan,59.0,0,0,Tidak Pernah,40.59,4.0,159,Tidak
+Laki-laki,80.0,0,0,Tidak Pernah,25.48,5.8,126,Tidak
+Laki-laki,61.0,0,0,Pernah,27.32,3.5,158,Tidak
+Laki-laki,8.0,0,0,Tidak Diketahui,16.34,3.5,145,Tidak
+Perempuan,80.0,0,0,Tidak Diketahui,27.32,4.0,160,Tidak
+Perempuan,13.0,0,0,Tidak Diketahui,18.48,6.2,85,Tidak
+Perempuan,49.0,0,0,Tidak Pernah,21.7,5.8,158,Tidak
+Laki-laki,2.0,0,0,Tidak Diketahui,27.32,5.7,130,Tidak
+Perempuan,18.0,0,0,Tidak Diketahui,21.15,4.0,159,Tidak
+Perempuan,3.0,0,0,Tidak Diketahui,20.28,3.5,159,Tidak
+Perempuan,42.0,0,0,Tidak Saat Ini,27.32,4.8,160,Tidak
+Perempuan,60.0,0,0,Tidak Pernah,26.93,5.7,140,Ya
+Perempuan,62.0,0,0,Masih Merokok,24.4,6.6,200,Tidak
+Perempuan,10.0,0,0,Tidak Diketahui,15.69,5.0,160,Tidak
+Laki-laki,77.0,1,0,Tidak Saat Ini,25.44,6.1,155,Tidak
+Perempuan,42.0,1,0,Masih Merokok,36.8,6.1,130,Tidak
+Laki-laki,31.0,0,0,Tidak Diketahui,31.85,6.6,85,Tidak
+Perempuan,30.0,0,0,Tidak Diketahui,32.88,4.8,155,Tidak
+Perempuan,3.0,0,0,Tidak Diketahui,27.32,6.0,85,Tidak
+Perempuan,23.0,0,0,Tidak Pernah,24.21,3.5,140,Tidak
+Perempuan,36.0,0,0,Tidak Pernah,36.11,6.2,126,Tidak
+Laki-laki,43.0,0,0,Tidak Pernah,69.37,7.5,130,Ya
+Perempuan,65.0,0,0,Tidak Diketahui,27.32,3.5,200,Tidak
+Perempuan,46.0,1,0,Masih Merokok,39.17,6.6,100,Tidak
+Laki-laki,1.64,0,0,Tidak Diketahui,16.73,3.5,200,Tidak
+Laki-laki,75.0,0,1,Tidak Saat Ini,28.12,7.5,160,Ya
+Perempuan,66.0,0,0,Tidak Pernah,37.78,6.5,130,Ya
+Perempuan,57.0,1,0,Tidak Pernah,27.89,6.6,155,Tidak
+Perempuan,23.0,0,0,Tidak Pernah,22.55,4.0,158,Tidak
+Laki-laki,37.0,0,0,Tidak Diketahui,27.32,6.6,100,Tidak
+Laki-laki,3.0,0,0,Tidak Diketahui,19.9,4.0,85,Tidak
+Perempuan,80.0,0,0,Tidak Pernah,36.74,9.0,130,Ya
+Perempuan,27.0,0,0,Tidak Pernah,26.46,6.6,160,Tidak
+Laki-laki,23.0,0,0,Pernah Merokok,29.22,6.2,140,Tidak
+Laki-laki,54.0,0,0,Masih Merokok,26.35,6.0,159,Tidak
+Perempuan,54.0,0,0,Pernah Merokok,31.01,6.1,200,Tidak
+Laki-laki,0.72,0,0,Tidak Diketahui,14.79,3.5,140,Tidak
+Laki-laki,0.72,0,0,Tidak Diketahui,15.44,6.5,160,Tidak
+Perempuan,22.0,0,0,Tidak Pernah,23.24,6.0,140,Tidak
+Perempuan,40.0,0,0,Tidak Pernah,35.07,6.5,130,Ya
+Laki-laki,19.0,0,0,Tidak Pernah,17.1,6.2,80,Tidak
+Perempuan,47.0,0,0,Tidak Saat Ini,25.42,4.5,158,Tidak
+Laki-laki,40.0,0,0,Masih Merokok,27.32,4.0,155,Tidak
+Perempuan,60.0,0,0,Tidak Pernah,24.65,6.6,158,Tidak
+Perempuan,45.0,0,0,Tidak Pernah,27.32,5.7,80,Tidak
+Perempuan,25.0,0,0,Tidak Pernah,22.35,6.5,85,Tidak
+Laki-laki,75.0,0,1,Pernah Merokok,22.46,6.0,130,Tidak
+Perempuan,69.0,0,0,Tidak Diketahui,28.34,6.2,140,Tidak
+Laki-laki,59.0,0,0,Tidak Diketahui,27.32,5.8,90,Tidak
+Laki-laki,69.0,0,1,Pernah Merokok,24.1,6.8,126,Ya
+Perempuan,15.0,0,0,Tidak Pernah,27.32,5.8,90,Tidak
+Laki-laki,13.0,0,0,Tidak Diketahui,19.57,6.5,80,Tidak
+Perempuan,60.0,0,0,Masih Merokok,21.85,4.5,155,Tidak
+Perempuan,11.0,0,0,Tidak Diketahui,20.18,6.0,130,Tidak
+Perempuan,51.0,1,0,Tidak Pernah,26.72,6.0,100,Tidak
+Laki-laki,10.0,0,0,Tidak Saat Ini,17.08,4.0,159,Tidak
+Perempuan,80.0,0,0,Tidak Diketahui,27.32,6.2,160,Tidak
+Perempuan,34.0,0,0,Masih Merokok,24.15,3.5,158,Tidak
+Laki-laki,10.0,0,0,Tidak Diketahui,34.52,5.8,155,Tidak
+Perempuan,29.0,0,0,Tidak Pernah,41.65,6.5,140,Tidak
+Perempuan,52.0,0,0,Masih Merokok,22.51,5.0,145,Tidak
+Laki-laki,61.0,0,0,Tidak Pernah,23.47,6.6,130,Tidak
+Laki-laki,45.0,0,0,Tidak Diketahui,27.32,5.8,158,Tidak
+Laki-laki,6.0,0,0,Tidak Diketahui,16.5,6.1,200,Tidak
+Perempuan,13.0,0,0,Tidak Diketahui,22.39,4.8,140,Tidak
+Laki-laki,80.0,0,0,Tidak Saat Ini,27.04,6.2,80,Tidak
+Perempuan,31.0,0,0,Tidak Pernah,21.3,5.8,159,Tidak
+Perempuan,27.0,0,0,Tidak Pernah,29.3,6.1,130,Tidak
+Perempuan,69.0,0,0,Pernah Merokok,31.17,9.0,260,Ya
+Laki-laki,1.88,0,0,Tidak Diketahui,17.64,3.5,155,Tidak
+Perempuan,54.0,0,0,Tidak Pernah,43.79,6.6,140,Tidak
+Perempuan,16.0,0,0,Masih Merokok,20.59,6.5,145,Tidak
+Perempuan,55.0,0,0,Tidak Diketahui,36.31,3.5,85,Tidak
+Laki-laki,80.0,0,0,Tidak Diketahui,27.32,6.5,200,Tidak
+Laki-laki,47.0,0,0,Pernah,48.2,5.7,100,Tidak
+Perempuan,40.0,0,0,Tidak Pernah,27.63,6.5,126,Tidak
+Laki-laki,19.0,0,0,Tidak Pernah,20.8,4.0,100,Tidak
+Perempuan,59.0,0,1,Tidak Pernah,60.26,8.8,145,Ya
+Laki-laki,47.0,0,0,Tidak Diketahui,27.32,6.1,126,Tidak
+Perempuan,16.0,0,0,Tidak Pernah,21.43,3.5,145,Tidak
+Perempuan,36.0,0,0,Tidak Pernah,39.46,5.8,100,Tidak
+Laki-laki,70.0,0,0,Masih Merokok,27.32,6.1,160,Tidak
+Laki-laki,14.0,0,0,Tidak Pernah,19.52,6.5,85,Tidak
+Perempuan,13.0,0,0,Tidak Pernah,21.88,6.1,200,Tidak
+Perempuan,47.0,0,0,Tidak Pernah,27.22,6.0,145,Tidak
+Laki-laki,43.0,1,0,Tidak Saat Ini,40.86,6.6,159,Ya
+Laki-laki,6.0,0,0,Tidak Diketahui,16.21,3.5,130,Tidak
+Perempuan,20.0,0,0,Tidak Diketahui,27.32,4.0,158,Tidak
+Perempuan,44.0,0,0,Tidak Pernah,37.2,5.7,145,Tidak
+Laki-laki,43.0,0,0,Tidak Pernah,37.16,6.0,160,Tidak
+Perempuan,65.0,0,0,Tidak Pernah,20.28,5.8,80,Tidak
+Perempuan,18.0,0,0,Tidak Pernah,33.04,3.5,145,Tidak
+Laki-laki,43.0,0,0,Tidak Pernah,22.84,5.0,80,Tidak
+Laki-laki,5.0,0,0,Tidak Pernah,17.3,5.0,130,Tidak
+Laki-laki,1.64,0,0,Tidak Diketahui,19.14,4.5,159,Tidak
+Perempuan,38.0,0,0,Tidak Pernah,20.24,5.8,159,Tidak
+Perempuan,21.0,0,0,Tidak Diketahui,27.32,4.5,126,Tidak
+Perempuan,29.0,0,0,Tidak Pernah,29.98,4.8,90,Tidak
+Laki-laki,80.0,0,0,Pernah Merokok,27.32,5.8,100,Tidak
+Laki-laki,67.0,0,0,Pernah,25.9,4.5,85,Tidak
+Perempuan,7.0,0,0,Tidak Diketahui,27.83,6.1,159,Tidak
+Perempuan,64.0,0,0,Tidak Diketahui,27.32,5.7,200,Tidak
+Perempuan,37.0,0,0,Pernah Merokok,33.83,3.5,100,Tidak
+Perempuan,29.0,0,0,Tidak Pernah,18.97,6.2,100,Tidak
+Laki-laki,25.0,0,0,Tidak Pernah,27.32,6.5,158,Tidak
+Perempuan,45.0,0,0,Masih Merokok,35.63,6.1,158,Tidak
+Perempuan,68.0,1,0,Tidak Pernah,24.35,6.2,85,Tidak
+Laki-laki,47.0,0,0,Tidak Pernah,27.32,4.8,155,Tidak
+Laki-laki,59.0,0,0,Tidak Diketahui,27.32,4.0,85,Tidak
+Perempuan,73.0,0,0,Tidak Pernah,35.56,5.8,260,Ya
+Perempuan,20.0,0,0,Tidak Pernah,22.32,3.5,126,Tidak
+Laki-laki,41.0,0,0,Tidak Pernah,35.75,5.0,140,Tidak
+Perempuan,80.0,0,0,Tidak Diketahui,27.32,3.5,80,Tidak
+Perempuan,1.16,0,0,Tidak Diketahui,18.78,6.6,159,Tidak
+Perempuan,39.0,0,0,Tidak Saat Ini,44.38,6.2,90,Tidak
+Laki-laki,80.0,0,0,Pernah,29.54,6.0,100,Tidak
+Laki-laki,31.0,0,0,Tidak Pernah,42.57,4.5,145,Tidak
+Laki-laki,55.0,0,0,Tidak Pernah,27.7,5.0,155,Tidak
+Perempuan,41.0,0,0,Tidak Diketahui,27.32,6.1,200,Tidak
+Perempuan,51.0,0,0,Tidak Pernah,31.99,4.8,130,Tidak
+Laki-laki,40.0,0,0,Masih Merokok,25.52,4.0,158,Tidak
+Laki-laki,16.0,0,0,Tidak Diketahui,21.24,5.8,160,Tidak
+Laki-laki,41.0,0,0,Tidak Pernah,28.66,5.0,126,Tidak
+Laki-laki,53.0,0,0,Masih Merokok,38.5,3.5,130,Tidak
+Laki-laki,52.0,0,0,Tidak Pernah,25.34,5.8,130,Tidak
+Perempuan,29.0,0,0,Masih Merokok,31.72,3.5,130,Tidak
+Perempuan,43.0,0,0,Tidak Pernah,29.02,6.5,200,Tidak
+Perempuan,73.0,0,0,Tidak Pernah,27.32,5.8,130,Tidak
+Laki-laki,46.0,0,0,Tidak Pernah,27.32,6.6,159,Ya
+Perempuan,50.0,0,0,Tidak Pernah,21.03,5.0,126,Tidak
+Laki-laki,72.0,1,1,Tidak Pernah,28.94,6.2,160,Tidak
+Laki-laki,42.0,1,0,Pernah Merokok,30.38,5.8,160,Tidak
+Perempuan,42.0,0,0,Tidak Pernah,37.3,4.8,126,Tidak
+Perempuan,59.0,0,0,Pernah Merokok,43.41,6.2,160,Ya
+Laki-laki,54.0,0,0,Tidak Diketahui,24.89,6.1,155,Tidak
+Perempuan,2.0,0,0,Tidak Diketahui,16.77,5.7,159,Tidak
+Perempuan,0.88,0,0,Tidak Diketahui,10.3,5.7,100,Tidak
+Perempuan,10.0,0,0,Tidak Diketahui,24.4,6.1,145,Tidak
+Perempuan,39.0,0,0,Masih Merokok,34.24,3.5,126,Tidak
+Laki-laki,24.0,0,0,Tidak Pernah,23.48,4.5,126,Tidak
+Perempuan,18.0,0,0,Tidak Saat Ini,27.32,6.6,85,Tidak
+Laki-laki,46.0,0,0,Masih Merokok,27.59,6.5,160,Tidak
+Perempuan,47.0,0,0,Masih Merokok,23.97,6.1,145,Tidak
+Perempuan,6.0,0,0,Tidak Diketahui,15.66,6.0,140,Tidak
+Perempuan,7.0,0,0,Tidak Diketahui,16.67,5.8,140,Tidak
+Perempuan,20.0,0,0,Masih Merokok,28.48,6.5,155,Tidak
+Perempuan,71.0,0,0,Tidak Diketahui,17.5,5.8,145,Tidak
+Perempuan,39.0,0,0,Pernah,22.21,5.8,158,Tidak
+Laki-laki,1.32,0,0,Tidak Diketahui,16.69,4.5,140,Tidak
+Laki-laki,29.0,0,0,Pernah Merokok,33.08,3.5,160,Tidak
+Perempuan,80.0,0,0,Tidak Pernah,27.32,6.0,200,Ya
+Perempuan,64.0,0,0,Tidak Diketahui,21.81,6.5,200,Tidak
+Laki-laki,26.0,0,0,Tidak Diketahui,25.21,4.8,160,Tidak
+Laki-laki,8.0,0,0,Tidak Diketahui,23.06,5.7,126,Tidak
+Perempuan,62.0,0,0,Pernah,27.27,5.8,130,Tidak
+Perempuan,53.0,0,0,Pernah,42.4,6.1,145,Tidak
+Perempuan,55.0,0,0,Tidak Pernah,35.42,6.5,140,Tidak
+Perempuan,64.0,0,0,Pernah,49.27,8.2,140,Ya
+Perempuan,40.0,0,0,Tidak Pernah,31.16,6.6,159,Ya
+Laki-laki,16.0,0,0,Tidak Diketahui,25.94,6.5,85,Tidak
+Perempuan,13.0,0,0,Tidak Diketahui,31.31,5.0,126,Tidak
+Laki-laki,24.0,0,0,Tidak Diketahui,27.32,5.7,100,Tidak
+Laki-laki,80.0,1,0,Tidak Saat Ini,23.46,4.8,160,Tidak
+Laki-laki,64.0,0,0,Tidak Pernah,39.0,8.8,220,Ya
+Laki-laki,38.0,0,0,Tidak Pernah,23.87,6.5,158,Tidak
+Perempuan,8.0,0,0,Tidak Diketahui,15.65,4.8,155,Tidak
+Perempuan,47.0,0,0,Tidak Diketahui,27.32,5.7,200,Tidak
+Perempuan,36.0,0,0,Pernah,29.44,6.1,155,Tidak
+Perempuan,55.0,0,0,Tidak Diketahui,27.32,4.0,160,Tidak
+Perempuan,27.0,0,0,Tidak Saat Ini,21.75,5.7,90,Tidak
+Perempuan,18.0,0,0,Tidak Diketahui,27.32,4.0,85,Tidak
+Perempuan,80.0,1,0,Tidak Diketahui,27.3,6.6,85,Tidak
+Perempuan,53.0,0,0,Tidak Pernah,27.32,5.0,85,Tidak
+Laki-laki,31.0,0,0,Tidak Pernah,28.51,4.8,158,Tidak
+Laki-laki,52.0,0,0,Tidak Diketahui,27.32,5.7,140,Tidak
+Laki-laki,59.0,0,0,Masih Merokok,27.32,4.8,155,Tidak
+Laki-laki,45.0,0,0,Tidak Pernah,28.72,4.8,158,Tidak
+Perempuan,74.0,1,0,Pernah Merokok,26.91,4.8,158,Tidak
+Perempuan,24.0,0,0,Pernah,34.63,6.2,158,Tidak
+Perempuan,55.0,0,0,Tidak Pernah,27.32,5.0,90,Tidak
+Perempuan,59.0,0,0,Pernah,24.33,6.6,145,Tidak
+Laki-laki,62.0,0,0,Tidak Diketahui,27.32,5.7,160,Tidak
+Perempuan,46.0,0,0,Tidak Diketahui,19.03,3.5,145,Tidak
+Laki-laki,17.0,0,0,Tidak Diketahui,21.85,4.0,140,Tidak
+Perempuan,64.0,0,0,Tidak Pernah,27.32,6.0,145,Tidak
+Laki-laki,70.0,1,0,Tidak Pernah,27.32,4.5,158,Tidak
+Perempuan,38.0,1,0,Tidak Saat Ini,27.32,6.1,160,Ya
+Perempuan,4.0,0,0,Tidak Diketahui,15.97,5.0,80,Tidak
+Laki-laki,45.0,1,0,Tidak Pernah,25.44,4.8,100,Tidak
+Perempuan,7.0,0,0,Tidak Diketahui,27.32,3.5,130,Tidak
+Laki-laki,20.0,0,0,Tidak Diketahui,25.04,6.1,200,Tidak
+Perempuan,25.0,0,0,Masih Merokok,18.1,3.5,159,Tidak
+Laki-laki,18.0,0,0,Tidak Pernah,23.33,5.7,90,Tidak
+Laki-laki,30.0,0,0,Tidak Diketahui,28.99,5.7,126,Tidak
+Laki-laki,41.0,0,0,Tidak Diketahui,25.05,4.0,140,Tidak
+Laki-laki,75.0,0,0,Tidak Pernah,22.43,7.0,160,Ya
+Laki-laki,38.0,0,0,Tidak Diketahui,27.32,3.5,158,Tidak
+Perempuan,76.0,0,0,Tidak Diketahui,27.32,6.1,145,Tidak
+Perempuan,55.0,0,0,Tidak Diketahui,27.32,4.0,80,Tidak
+Laki-laki,80.0,0,0,Tidak Pernah,22.96,6.0,80,Tidak
+Perempuan,80.0,1,1,Pernah Merokok,24.1,6.2,155,Tidak
+Perempuan,33.0,0,0,Tidak Pernah,23.97,4.0,159,Tidak
+Perempuan,72.0,0,0,Tidak Diketahui,27.32,4.8,130,Tidak
+Laki-laki,39.0,0,0,Tidak Pernah,29.26,6.0,145,Tidak
+Perempuan,70.0,0,0,Tidak Saat Ini,24.7,6.6,145,Tidak
+Laki-laki,62.0,0,0,Tidak Saat Ini,32.19,5.8,300,Ya
+Perempuan,22.0,0,0,Masih Merokok,31.59,6.1,80,Tidak
+Perempuan,60.0,0,0,Tidak Pernah,30.58,4.8,80,Tidak
+Laki-laki,28.0,0,0,Tidak Diketahui,27.32,5.0,80,Tidak
+Perempuan,51.0,1,0,Pernah Merokok,22.31,6.2,85,Tidak
+Perempuan,28.0,1,0,Tidak Pernah,20.09,6.6,200,Ya
+Perempuan,45.0,0,0,Masih Merokok,27.32,4.5,158,Tidak
+Laki-laki,4.0,0,0,Tidak Diketahui,27.32,6.5,200,Tidak
+Laki-laki,19.0,0,0,Tidak Pernah,42.0,3.5,80,Tidak
+Perempuan,57.0,0,0,Tidak Diketahui,30.49,6.0,160,Tidak
+Perempuan,30.0,0,0,Pernah Merokok,26.2,6.6,160,Tidak
+Laki-laki,42.0,0,0,Masih Merokok,29.95,4.5,145,Tidak
+Laki-laki,9.0,0,0,Tidak Pernah,16.5,4.8,100,Tidak
+Perempuan,27.0,0,0,Tidak Diketahui,27.32,4.8,85,Tidak
+Laki-laki,59.0,1,0,Pernah,25.94,9.0,140,Ya
+Perempuan,3.0,0,0,Tidak Diketahui,27.32,3.5,100,Tidak
+Perempuan,24.0,0,0,Tidak Diketahui,27.32,5.0,159,Tidak
+Perempuan,66.0,0,0,Pernah Merokok,37.2,5.7,159,Ya
+Laki-laki,15.0,0,0,Tidak Pernah,25.39,3.5,145,Tidak
+Perempuan,21.0,0,0,Pernah,27.32,3.5,160,Tidak
+Perempuan,23.0,0,0,Tidak Pernah,27.32,6.0,140,Tidak
+Laki-laki,5.0,0,0,Tidak Diketahui,16.92,5.0,126,Tidak
+Perempuan,28.0,0,0,Tidak Pernah,20.95,6.2,80,Tidak
+Laki-laki,10.0,0,0,Tidak Diketahui,30.68,6.5,126,Tidak
+Perempuan,39.0,0,0,Tidak Diketahui,27.99,3.5,200,Tidak
+Perempuan,75.0,0,0,Pernah Merokok,27.32,3.5,126,Tidak
+Perempuan,38.0,0,0,Tidak Diketahui,49.23,5.7,160,Tidak
+Laki-laki,65.0,0,0,Pernah Merokok,33.7,6.2,159,Tidak
+Perempuan,41.0,0,0,Tidak Pernah,34.17,4.8,159,Tidak
+Perempuan,39.0,0,0,Tidak Pernah,27.52,6.1,159,Tidak
+Perempuan,42.0,0,0,Tidak Diketahui,36.58,6.0,100,Tidak
+Perempuan,3.0,0,0,Tidak Diketahui,17.25,6.0,126,Tidak
+Perempuan,39.0,0,0,Tidak Pernah,27.73,8.8,145,Ya
+Perempuan,51.0,0,0,Pernah Merokok,27.32,6.1,158,Tidak
+Perempuan,28.0,0,0,Tidak Diketahui,27.32,6.2,100,Tidak
+Perempuan,3.0,0,0,Tidak Diketahui,17.46,5.7,145,Tidak
+Perempuan,51.0,0,0,Tidak Pernah,42.54,6.5,158,Tidak
+Perempuan,5.0,0,0,Tidak Diketahui,18.78,3.5,85,Tidak
+Perempuan,77.0,0,0,Pernah Merokok,23.5,4.5,158,Tidak
+Perempuan,41.0,0,0,Tidak Pernah,21.33,4.8,85,Tidak
+Perempuan,25.0,0,0,Tidak Saat Ini,35.1,6.5,90,Tidak
+Perempuan,62.0,0,0,Tidak Pernah,26.46,6.2,85,Tidak
+Perempuan,30.0,0,0,Tidak Diketahui,27.32,4.8,80,Tidak
+Perempuan,4.0,0,0,Tidak Pernah,21.72,6.6,90,Tidak
+Perempuan,2.0,0,0,Tidak Pernah,27.32,3.5,155,Tidak
+Perempuan,48.0,0,0,Tidak Pernah,22.29,4.0,158,Tidak
+Laki-laki,0.8,0,0,Tidak Diketahui,31.88,4.0,200,Tidak
+Perempuan,34.0,0,0,Tidak Pernah,30.84,6.1,130,Tidak
+Perempuan,27.0,0,0,Tidak Pernah,19.34,6.6,85,Tidak
+Perempuan,54.0,1,0,Masih Merokok,28.42,4.8,80,Tidak
+Perempuan,30.0,0,0,Tidak Diketahui,27.32,4.5,80,Tidak
+Perempuan,55.0,0,0,Pernah Merokok,27.32,5.7,126,Tidak
+Perempuan,41.0,0,0,Tidak Saat Ini,27.32,4.0,145,Tidak
+Perempuan,3.0,0,0,Tidak Diketahui,16.67,4.8,130,Tidak
+Perempuan,30.0,0,0,Tidak Pernah,25.63,5.7,160,Tidak
+Perempuan,72.0,0,0,Pernah Merokok,27.39,3.5,85,Tidak
+Laki-laki,56.0,0,0,Tidak Diketahui,24.11,6.2,130,Tidak
+Laki-laki,80.0,0,1,Pernah Merokok,32.95,6.0,130,Ya
+Perempuan,25.0,0,0,Tidak Pernah,27.32,6.1,85,Tidak
+Perempuan,49.0,0,0,Masih Merokok,24.46,5.0,140,Tidak
+Laki-laki,58.0,0,0,Pernah,19.46,9.0,130,Ya
+Perempuan,78.0,0,0,Tidak Pernah,25.97,5.7,159,Tidak
+Perempuan,32.0,0,0,Tidak Pernah,25.15,6.5,155,Tidak
+Perempuan,57.0,0,0,Pernah Merokok,20.4,4.5,160,Tidak
+Laki-laki,14.0,0,0,Tidak Diketahui,15.62,6.1,155,Tidak
+Laki-laki,21.0,0,0,Tidak Diketahui,26.12,5.0,85,Tidak
+Laki-laki,1.24,0,0,Tidak Pernah,18.42,4.0,126,Tidak
+Laki-laki,12.0,0,0,Tidak Diketahui,18.51,5.7,155,Tidak
+Perempuan,21.0,0,0,Tidak Diketahui,27.32,4.8,80,Tidak
+Perempuan,75.0,0,0,Tidak Pernah,33.45,5.0,80,Tidak
+Perempuan,31.0,0,0,Tidak Saat Ini,25.46,4.5,80,Tidak
+Perempuan,25.0,0,0,Tidak Diketahui,27.32,5.7,80,Tidak
+Perempuan,57.0,0,0,Pernah,18.48,4.5,155,Tidak
+Perempuan,2.0,0,0,Tidak Diketahui,14.7,4.0,80,Tidak
+Laki-laki,51.0,0,0,Tidak Diketahui,27.32,5.8,126,Tidak
+Laki-laki,20.0,0,0,Pernah Merokok,20.3,6.6,158,Tidak
+Perempuan,29.0,0,0,Masih Merokok,37.13,3.5,140,Tidak
+Perempuan,38.0,0,0,Tidak Diketahui,27.32,5.8,126,Tidak
+Laki-laki,0.16,0,0,Tidak Diketahui,11.16,5.8,85,Tidak
+Laki-laki,69.0,1,0,Tidak Pernah,44.5,6.2,145,Tidak
+Perempuan,38.0,0,0,Tidak Diketahui,27.32,5.7,100,Tidak
+Perempuan,51.0,0,0,Tidak Pernah,27.32,5.0,160,Tidak
+Perempuan,5.0,0,0,Tidak Pernah,16.22,4.5,85,Tidak
+Laki-laki,67.0,0,0,Tidak Saat Ini,30.21,5.8,145,Tidak
+Laki-laki,39.0,0,0,Masih Merokok,27.04,6.1,140,Tidak
+Laki-laki,47.0,0,0,Tidak Pernah,30.09,4.8,90,Tidak
+Perempuan,15.0,0,0,Tidak Diketahui,22.04,4.0,200,Tidak
+Laki-laki,38.0,0,0,Tidak Pernah,33.72,5.0,200,Tidak
+Perempuan,24.0,0,0,Pernah,26.04,6.1,90,Tidak
+Perempuan,46.0,0,0,Masih Merokok,23.47,5.0,100,Tidak
+Laki-laki,57.0,0,0,Tidak Saat Ini,23.48,4.5,130,Tidak
+Perempuan,44.0,0,0,Tidak Pernah,27.32,6.2,158,Tidak
+Perempuan,39.0,0,0,Tidak Pernah,27.32,4.5,200,Tidak
+Perempuan,31.0,0,0,Tidak Diketahui,33.16,5.0,80,Tidak
+Laki-laki,14.0,0,0,Tidak Diketahui,20.67,6.0,200,Tidak
+Perempuan,60.0,0,0,Tidak Saat Ini,27.32,4.0,130,Tidak
+Perempuan,31.0,0,0,Tidak Pernah,22.66,4.0,126,Tidak
+Perempuan,80.0,0,0,Tidak Pernah,20.93,5.0,90,Tidak
+Perempuan,51.0,0,0,Tidak Pernah,34.54,6.5,160,Tidak
+Perempuan,16.0,0,0,Tidak Pernah,36.61,6.2,80,Tidak
+Laki-laki,12.0,0,0,Tidak Diketahui,27.32,6.5,126,Tidak
+Perempuan,40.0,0,0,Tidak Saat Ini,28.96,6.0,90,Tidak
+Perempuan,62.0,0,0,Tidak Pernah,26.6,6.1,160,Tidak
+Laki-laki,58.0,0,0,Tidak Saat Ini,25.23,4.0,85,Tidak
+Laki-laki,66.0,0,0,Tidak Diketahui,27.32,5.7,80,Tidak
+Laki-laki,26.0,0,0,Tidak Diketahui,20.16,6.0,200,Tidak
+Perempuan,22.0,0,0,Pernah,22.65,4.8,159,Tidak
+Laki-laki,3.0,0,0,Tidak Diketahui,18.0,4.5,140,Tidak
+Perempuan,26.0,0,0,Tidak Diketahui,18.75,5.8,130,Tidak
+Laki-laki,49.0,0,0,Tidak Saat Ini,27.32,5.8,200,Tidak
+Laki-laki,3.0,0,0,Tidak Diketahui,16.28,4.0,90,Tidak
+Perempuan,57.0,1,0,Tidak Pernah,23.29,5.8,145,Tidak
+Perempuan,58.0,0,0,Tidak Pernah,26.12,4.8,140,Tidak
+Perempuan,70.0,1,0,Tidak Diketahui,34.02,4.5,158,Tidak
+Perempuan,37.0,0,0,Tidak Pernah,24.96,6.2,158,Tidak
+Laki-laki,26.0,0,0,Tidak Pernah,37.9,6.1,130,Tidak
+Laki-laki,30.0,0,0,Tidak Diketahui,40.0,4.8,90,Tidak
+Perempuan,70.0,0,0,Tidak Pernah,19.82,6.1,200,Tidak
+Perempuan,47.0,0,0,Tidak Pernah,25.76,4.0,200,Tidak
+Perempuan,20.0,0,0,Tidak Pernah,27.32,5.7,126,Tidak
+Laki-laki,80.0,0,0,Tidak Saat Ini,22.94,6.6,145,Tidak
+Laki-laki,5.0,0,0,Tidak Diketahui,19.22,5.8,159,Tidak
+Perempuan,34.0,0,0,Masih Merokok,27.32,4.5,155,Tidak
+Perempuan,56.0,0,0,Tidak Diketahui,27.32,6.1,200,Tidak
+Perempuan,52.0,0,0,Tidak Diketahui,19.47,6.1,100,Tidak
+Perempuan,59.0,1,0,Tidak Saat Ini,29.28,3.5,158,Tidak
+Perempuan,76.0,0,0,Tidak Pernah,29.79,6.0,90,Tidak
+Laki-laki,42.0,0,0,Masih Merokok,26.47,6.2,159,Tidak
+Laki-laki,1.88,0,0,Tidak Pernah,19.97,5.0,126,Tidak
+Laki-laki,55.0,1,0,Tidak Saat Ini,28.19,5.8,100,Tidak
+Perempuan,35.0,0,0,Pernah Merokok,36.87,6.6,85,Tidak
+Laki-laki,10.0,0,0,Tidak Diketahui,27.32,4.8,155,Tidak
+Perempuan,73.0,0,0,Tidak Diketahui,37.83,6.6,85,Tidak
+Perempuan,59.0,1,0,Tidak Saat Ini,20.51,5.8,145,Tidak
+Laki-laki,36.0,0,0,Tidak Pernah,36.4,4.8,126,Tidak
+Perempuan,48.0,0,0,Tidak Pernah,27.32,3.5,200,Tidak
+Perempuan,75.0,1,0,Tidak Diketahui,27.32,6.6,240,Ya
+Perempuan,53.0,0,0,Masih Merokok,27.02,6.6,159,Tidak
+Perempuan,62.0,1,0,Tidak Saat Ini,27.32,6.1,130,Tidak
+Laki-laki,27.0,0,0,Tidak Diketahui,27.32,4.0,200,Tidak
+Laki-laki,71.0,0,0,Tidak Saat Ini,25.95,4.5,155,Tidak
+Perempuan,63.0,0,0,Masih Merokok,37.53,4.8,90,Tidak
+Perempuan,54.0,0,0,Masih Merokok,27.32,6.5,160,Tidak
+Perempuan,20.0,0,0,Pernah Merokok,33.56,6.5,85,Tidak
+Perempuan,48.0,0,0,Pernah,31.25,6.2,240,Ya
+Laki-laki,10.0,0,0,Tidak Diketahui,19.47,5.7,159,Tidak
+Perempuan,49.0,0,0,Tidak Pernah,27.0,4.5,126,Tidak
+Laki-laki,27.0,1,0,Tidak Pernah,36.01,3.5,159,Tidak
+Perempuan,68.0,0,0,Pernah Merokok,27.98,6.0,159,Tidak
+Perempuan,80.0,0,0,Tidak Diketahui,27.32,8.8,159,Ya
+Perempuan,36.0,0,0,Tidak Pernah,32.44,5.8,140,Tidak
+Perempuan,59.0,0,0,Tidak Pernah,22.36,6.2,158,Tidak
+Perempuan,38.0,0,0,Pernah Merokok,29.64,6.0,85,Tidak
+Perempuan,34.0,0,0,Pernah,26.15,6.0,126,Tidak
+Laki-laki,53.0,0,0,Tidak Pernah,27.32,5.0,80,Tidak
+Perempuan,48.0,0,0,Pernah Merokok,29.15,6.2,80,Tidak
+Laki-laki,14.0,0,0,Tidak Diketahui,21.85,5.7,159,Tidak
+Laki-laki,47.0,0,0,Tidak Diketahui,27.32,6.0,200,Tidak
+Laki-laki,28.0,0,0,Tidak Diketahui,27.32,6.6,80,Tidak
+Perempuan,44.0,0,0,Tidak Diketahui,27.32,5.8,159,Ya
+Laki-laki,42.0,0,0,Masih Merokok,27.32,6.5,130,Tidak
+Laki-laki,65.0,0,0,Tidak Saat Ini,34.13,6.0,126,Tidak
+Perempuan,80.0,0,0,Tidak Pernah,27.32,6.2,140,Tidak
+Laki-laki,44.0,0,0,Tidak Pernah,27.32,5.8,90,Tidak
+Perempuan,26.0,0,0,Tidak Diketahui,27.32,5.8,200,Tidak
+Laki-laki,75.0,0,0,Masih Merokok,24.92,6.2,126,Tidak
+Laki-laki,80.0,0,0,Tidak Diketahui,27.32,6.0,130,Tidak
+Perempuan,31.0,0,0,Tidak Pernah,27.32,6.0,158,Tidak
+Perempuan,62.0,0,1,Tidak Pernah,42.48,5.8,159,Tidak
+Laki-laki,34.0,0,0,Pernah Merokok,25.76,5.8,126,Tidak
+Perempuan,53.0,0,0,Pernah,35.83,5.0,85,Tidak
+Laki-laki,67.0,1,0,Tidak Diketahui,26.47,6.0,85,Tidak
+Perempuan,33.0,0,0,Tidak Pernah,22.14,3.5,130,Tidak
+Perempuan,64.0,0,0,Tidak Diketahui,31.68,5.8,159,Tidak
+Perempuan,47.0,0,0,Tidak Diketahui,24.71,4.8,130,Tidak
+Laki-laki,51.0,0,0,Pernah,22.4,6.5,200,Tidak
+Perempuan,53.0,0,0,Tidak Pernah,27.32,6.6,155,Ya
+Laki-laki,62.0,0,0,Pernah,24.46,4.0,140,Tidak
+Perempuan,71.0,0,0,Tidak Pernah,38.36,4.5,200,Tidak
+Laki-laki,53.0,0,0,Pernah Merokok,39.9,8.8,126,Ya
+Laki-laki,65.0,0,1,Pernah Merokok,30.41,4.8,158,Tidak
+Perempuan,42.0,0,0,Tidak Pernah,23.5,6.2,80,Tidak
+Perempuan,12.0,0,0,Tidak Diketahui,21.91,5.7,155,Tidak
+Laki-laki,77.0,0,0,Tidak Diketahui,27.32,6.1,200,Tidak
+Perempuan,16.0,0,0,Tidak Saat Ini,22.13,6.6,90,Tidak
+Perempuan,71.0,0,0,Pernah Merokok,22.46,4.8,90,Tidak
+Perempuan,10.0,0,0,Tidak Diketahui,13.95,4.0,158,Tidak
+Perempuan,63.0,0,0,Tidak Pernah,21.13,6.0,126,Tidak
+Laki-laki,4.0,0,0,Tidak Diketahui,15.24,5.8,90,Tidak
+Perempuan,63.0,0,0,Tidak Pernah,27.32,3.5,160,Tidak
+Laki-laki,49.0,0,0,Tidak Pernah,27.32,6.5,300,Ya
+Perempuan,80.0,0,1,Tidak Pernah,15.06,6.6,140,Tidak
+Laki-laki,5.0,0,0,Tidak Pernah,16.87,6.5,85,Tidak
+Laki-laki,9.0,0,0,Tidak Diketahui,15.33,6.0,155,Tidak
+Laki-laki,3.0,0,0,Tidak Diketahui,16.7,5.0,85,Tidak
+Perempuan,53.0,0,0,Tidak Pernah,27.32,6.1,90,Tidak
+Perempuan,33.0,0,0,Tidak Pernah,28.87,6.6,85,Tidak
+Perempuan,6.0,0,0,Tidak Diketahui,23.86,5.7,158,Tidak
+Perempuan,67.0,0,0,Tidak Pernah,27.32,5.8,280,Ya
+Laki-laki,40.0,0,0,Tidak Diketahui,33.14,4.8,155,Tidak
+Laki-laki,35.0,0,0,Tidak Pernah,25.76,5.0,158,Tidak
+Laki-laki,74.0,0,0,Tidak Diketahui,27.32,6.2,85,Tidak
+Laki-laki,15.0,0,0,Tidak Diketahui,20.88,3.5,90,Tidak
+Laki-laki,80.0,0,1,Pernah Merokok,25.7,4.5,130,Tidak
+Perempuan,44.0,0,0,Pernah Merokok,17.07,6.1,160,Tidak
+Laki-laki,80.0,0,0,Pernah Merokok,23.48,5.7,100,Tidak
+Laki-laki,23.0,0,0,Tidak Diketahui,27.32,3.5,140,Tidak
+Laki-laki,55.0,0,0,Tidak Pernah,27.32,6.0,90,Tidak
+Perempuan,34.0,0,0,Tidak Diketahui,28.49,3.5,130,Tidak
+Laki-laki,4.0,0,0,Tidak Diketahui,18.23,6.1,100,Tidak
+Perempuan,12.0,0,0,Tidak Pernah,20.78,6.5,130,Tidak
+Laki-laki,53.0,0,0,Masih Merokok,28.75,5.0,85,Tidak
+Perempuan,50.0,0,0,Tidak Pernah,26.39,6.6,158,Tidak
+Laki-laki,49.0,0,0,Tidak Diketahui,28.6,4.5,130,Tidak
+Laki-laki,8.0,0,0,Tidak Diketahui,29.35,5.7,80,Tidak
+Perempuan,16.0,0,0,Tidak Pernah,24.38,4.8,90,Tidak
+Perempuan,80.0,0,0,Tidak Pernah,25.04,6.5,100,Tidak
+Perempuan,34.0,0,0,Masih Merokok,21.6,5.7,130,Tidak
+Laki-laki,49.0,0,0,Tidak Pernah,27.6,6.1,85,Tidak
+Perempuan,80.0,1,0,Tidak Pernah,23.28,3.5,155,Tidak
+Laki-laki,39.0,0,0,Tidak Diketahui,27.32,4.8,130,Tidak
+Laki-laki,46.0,0,0,Tidak Diketahui,34.03,6.0,155,Tidak
+Laki-laki,33.0,0,0,Masih Merokok,27.12,4.0,85,Tidak
+Laki-laki,50.0,0,0,Pernah Merokok,25.84,6.6,80,Tidak
+Perempuan,60.0,0,0,Masih Merokok,29.92,6.0,140,Tidak
+Laki-laki,32.0,0,0,Masih Merokok,26.97,6.6,85,Tidak
+Laki-laki,16.0,0,0,Tidak Pernah,18.49,5.7,200,Tidak
+Laki-laki,4.0,0,0,Tidak Diketahui,18.02,4.5,130,Tidak
+Perempuan,44.0,1,0,Pernah Merokok,36.8,6.5,126,Ya
+Perempuan,7.0,0,0,Tidak Diketahui,27.32,5.0,200,Tidak
+Perempuan,13.0,0,0,Tidak Diketahui,17.53,6.6,200,Tidak
+Perempuan,76.0,0,0,Tidak Diketahui,40.37,5.8,100,Tidak
+Laki-laki,71.0,0,0,Tidak Pernah,25.77,6.1,200,Tidak
+Perempuan,51.0,0,0,Tidak Pernah,31.94,5.7,155,Tidak
+Perempuan,22.0,0,0,Tidak Diketahui,27.32,4.0,80,Tidak
+Laki-laki,46.0,0,0,Tidak Diketahui,32.84,6.5,158,Tidak
+Laki-laki,43.0,0,0,Tidak Diketahui,27.32,5.7,145,Tidak
+Perempuan,44.0,0,1,Tidak Pernah,54.12,3.5,140,Tidak
+Perempuan,11.0,0,0,Tidak Diketahui,27.32,5.0,155,Tidak
+Laki-laki,7.0,0,0,Tidak Diketahui,27.32,4.8,158,Tidak
+Perempuan,75.0,1,0,Tidak Pernah,22.64,4.0,130,Tidak
+Perempuan,22.0,0,0,Pernah,20.94,4.0,200,Tidak
+Laki-laki,80.0,0,0,Tidak Pernah,24.27,5.7,158,Tidak
+Perempuan,9.0,0,0,Tidak Diketahui,27.32,4.0,159,Tidak
+Laki-laki,60.0,0,0,Tidak Pernah,33.63,5.7,155,Tidak
+Laki-laki,12.0,0,0,Tidak Pernah,17.37,4.8,158,Tidak
+Perempuan,65.0,0,0,Tidak Diketahui,26.56,5.7,158,Tidak
+Perempuan,80.0,0,1,Tidak Pernah,16.3,6.2,140,Tidak
+Perempuan,19.0,0,0,Tidak Pernah,30.45,4.8,130,Tidak
+Laki-laki,62.0,0,0,Tidak Pernah,29.26,5.0,200,Tidak
+Perempuan,44.0,0,0,Tidak Diketahui,46.07,5.0,145,Tidak
+Laki-laki,21.0,0,0,Tidak Pernah,31.44,6.2,85,Tidak
+Laki-laki,45.0,0,1,Masih Merokok,38.25,6.1,140,Tidak
